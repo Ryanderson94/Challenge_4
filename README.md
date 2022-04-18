@@ -1,6 +1,5 @@
-# Whale Navs Analysis
-
-
+# Whale Portfolio Return, Risk and Performance Analysis
+This 'application' serves as an analysis of large asset managers (aka whale funds such as Soros, Tiger and Berkshire Hathaway) against the S&P 500. It can also be used to analzyze other equities, ETFs, mutual funds etc. against a benchmark so long as the daily close prices are listed in a csv alongside the benchmark.
 
 ---
 
