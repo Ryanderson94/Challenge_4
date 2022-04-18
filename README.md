@@ -1,5 +1,7 @@
 # Whale Portfolio Return, Risk and Performance Analysis
-This 'application' serves as an analysis of large asset managers (aka whale funds such as Soros, Tiger and Berkshire Hathaway) against the S&P 500. It can also be used to analzyze other equities, ETFs, mutual funds etc. against a benchmark so long as the daily close prices are listed in a csv alongside the benchmark.
+This 'application' serves as an analysis of large asset managers (aka whale funds such as Soros, Tiger and Berkshire Hathaway) against the S&P 500. The reason applicatio is placed in quotes is because this notebook serves as more of an analysis when compared to an actual program. While the analysis is the primary focus of this, the application can also be used to analzyze other equities, ETFs, mutual funds etc. against a benchmark so long as the daily close prices are listed in a csv alongside the benchmark.
+
+The program and analysis contain both quantitative and visual comparisons to understand key data points. These data points include daily returns, variance, covariance, beta and sharpe ratios.
 
 ---
 
